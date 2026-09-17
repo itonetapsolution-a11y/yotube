@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+yt-dlp[default]>=2026.08.19,<2027
+yt-dlp-getpot-wpc==1.1.2
+# Official Deno binary for yt-dlp's YouTube EJS challenge runtime.
+deno==2.9.6
+requests>=2.31.0
+pysubs2>=1.7.0
+static-ffmpeg>=2.5
